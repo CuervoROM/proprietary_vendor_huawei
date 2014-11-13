@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<!-- 		
+mccTableParse store the data which relative to mcc		
+User must use tools to generate this file		
+-->
+<mccTableParse>
+<short MCC_CODES="204,206,208,212,213,214,216,218,219,220,222,225,226,228,230,231,232,234,235,238,240,242,244,246,247,248,250,255,257,259,260,262,266,268,268,270,272,274,276,278,280,282,283,284,286,288,289,290,292,293,294,295,297"/>
+<integer IND_CODES="16804880,66560,33686560,197632,263168,50660400,394240,459776,525312,590848,67765312,67830848,84673616,101516384,118385776,984064,101739648,135359632,135359632,1180672,1246208,1311744,1377280,1442816,1508352,1573888,1639424,1704960,1770496,1836032,1901728,102657200,2032640,153093312,153093312,2163712,136447184,2294784,2360320,2425856,2491392,2556928,2622464,2688000,2753536,2819072,2556928,2884608,2950144,3015680,3081216,3146752,3212288"/>
+<string TZ_STRINGS=",Europe/Amsterdam,Europe/Paris,Europe/Madrid,Europe/Rome,Europe/Bucharest,Europe/Zurich,Europe/Prague,Europe/Vienna,Europe/London,Europe/Warsaw,Europe/Berlin,Europe/Lisbon,Europe/Dublin"/>
+<string LANG_STRINGS=",nl,fr,es,it,ro,de,cs,en,pt"/>
+<string COUNTRY_CODES="nl,be,fr,mc,ad,es,hu,ba,hr,rs,it,va,ro,ch,cz,sk,at,gb,dk,se,no,fi,lt,lv,ee,ru,ua,by,md,pl,de,gi,pt,lu,ie,is,al,mt,cy,ge,am,bg,tr,fo,gl,sm,sl,mk,li,me"/>
+</mccTableParse>
